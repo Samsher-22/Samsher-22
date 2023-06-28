@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aboutMe</string>
+    <string name="name">SAMSHER</string>
+    <string name="avatar">Avatar</string>
+
+    <style name="bio"></style>
+</resources>
